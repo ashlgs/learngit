@@ -5,4 +5,4 @@ I want to push this project to github.
 
 feature1上修改提交后，回到master修改，解决了冲突
 新建分支dev
-fixed a bug
+fixed a bugfixed a bugfixed a bugfixed a bugfixed a bug
